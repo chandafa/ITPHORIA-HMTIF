@@ -9182,3 +9182,9 @@ iframe {
 .z-99 {
   z-index: 99;
 }
+
+.narasumber {
+  position: relative;
+  top: 100px;
+  font-size: 30px;
+}
